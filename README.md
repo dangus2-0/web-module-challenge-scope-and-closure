@@ -29,7 +29,7 @@ There are layers upon layers of nested functions within the game of baseball. Yo
 
 1. Fork repo and add TL as collaborator on Github
 2. Clone _your_ fork (not Lambda's repo by mistake!)
-3. `cd` into your newly cloned repository
+3. `cd` into your newl y cloned repository
 4. Create a new branch by typing `git checkout -b <firstName-lastName>`
 5. Work on your branch, push commits and create PR as usual
 
